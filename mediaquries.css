@@ -16,6 +16,10 @@
     body {
       overflow-x: hidden;
     }
+    #profile {
+      position: relative;
+      z-index: -1;
+    }
     #desktop-nav {
       display: none;
     }
@@ -62,9 +66,10 @@
       height: 40vh;
     }
     #profile {
+      position: relative;
       height: 83vh;
       margin-bottom: 0;
-      z-index: -5;
+      z-index: -1;
     }
     article {
       font-size: 1rem;
