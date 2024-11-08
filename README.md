@@ -26,7 +26,7 @@ PROJECTS PAGE-
 
 
 
-[View Live Demo](https://ranjithbabu0912.github.io/rb-portfolio/)
+[View Live Demo](https://ranjithbabu0912.github.io/my-portfolio/)
 
 
 ## Run Locally
@@ -34,7 +34,7 @@ PROJECTS PAGE-
 Clone the project
 
 ```bash
-  git clone https://github.com/Ranjithbabu0912/rb-portfolio.git
+  git clone https://github.com/Ranjithbabu0912/my-portfolio.git
 ```
 
 Go to the project directory
@@ -42,17 +42,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  cd rb-portfolio
-```
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
+  cd my-portfolio
 ```
 
 
@@ -63,4 +53,4 @@ If you have any questions or need assistance, please don’t hesitate to reach o
 
 ## License
 
-[MIT](https://github.com/Ranjithbabu0912/rb-portfolio/blob/main/LICENSE)
+[MIT](https://github.com/Ranjithbabu0912/my-portfolio/blob/main/LICENSE)
