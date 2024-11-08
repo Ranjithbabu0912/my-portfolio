@@ -9,15 +9,15 @@ Hosting: GitHub
 
 ## Screenshots 
 HOME PAGE-
-![Home page]<img width="960" alt="portfolio ss" src="https://github.com/user-attachments/assets/dd4893ad-eccb-49b0-a9a1-93d6afd73ba5">
+<img width="960" alt="portfolio ss" src="https://github.com/user-attachments/assets/dd4893ad-eccb-49b0-a9a1-93d6afd73ba5">
 
 
 ABOUT & SKILLS PAGE-
-![About and Skill Page]<img width="959" alt="portfolio about ss" src="https://github.com/user-attachments/assets/4b88868c-f55f-4fbe-b511-f6d12210aba4">
+<img width="959" alt="portfolio about ss" src="https://github.com/user-attachments/assets/4b88868c-f55f-4fbe-b511-f6d12210aba4">
 
 
 PROJECTS PAGE-
-![Projects Page)]<img width="960" alt="portfolio project ss" src="https://github.com/user-attachments/assets/e7964234-0e9d-447d-9e12-60c52dc30f65">
+<img width="960" alt="portfolio project ss" src="https://github.com/user-attachments/assets/e7964234-0e9d-447d-9e12-60c52dc30f65">
 
 
 
